@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hajar Kh
 
-<!--
-**Hajar-kh1/Hajar-kh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Scientist specializing in Artificial Intelligence and Machine Learning.
 
-Here are some ideas to get you started:
+## About Me
+I am passionate about:
+- Machine Learning
+- Deep Learning
+- Data Analytics
+- Artificial Intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies & Tools
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- TensorFlow
+- PyTorch
+- SQL
+- Data Visualization
+
+## Current Focus
+Building AI and data-driven solutions using modern machine learning technologies.
+
+## Projects
+You can explore my repositories to see:
+- AI projects
+- Machine Learning models
+- Data Science experiments
+- Analytics dashboards
+
+## Contact
+GitHub Profile: github.com/Hajar-kh1
