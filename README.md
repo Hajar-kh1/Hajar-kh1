@@ -1,4 +1,4 @@
-# Hajar Kh
+# Hajar Alsayyahi
 
 Data Scientist specializing in Artificial Intelligence and Machine Learning.
 
